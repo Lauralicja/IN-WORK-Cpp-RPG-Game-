@@ -1,0 +1,14 @@
+﻿  Collision.cpp
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(66): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(72): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(79): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(85): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Game.cpp
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(66): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(72): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(79): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\laura\source\repos\project\project\code\ch\transformcomponent.h(85): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Project.vcxproj -> C:\Users\Laura\source\repos\Project\Debug\Project.exe
